@@ -1,0 +1,14 @@
+C:\Users\Kspades\OneDrive\Desktop\TASKcsharp\taskcduration\bin\Debug\taskcduration.exe.config
+C:\Users\Kspades\OneDrive\Desktop\TASKcsharp\taskcduration\bin\Debug\taskcduration.exe
+C:\Users\Kspades\OneDrive\Desktop\TASKcsharp\taskcduration\bin\Debug\taskcduration.pdb
+C:\Users\Kspades\OneDrive\Desktop\TASKcsharp\taskcduration\obj\Debug\taskcduration.csproj.AssemblyReference.cache
+C:\Users\Kspades\OneDrive\Desktop\TASKcsharp\taskcduration\obj\Debug\taskcduration.csproj.CoreCompileInputs.cache
+C:\Users\Kspades\OneDrive\Desktop\TASKcsharp\taskcduration\obj\Debug\taskcduration.exe
+C:\Users\Kspades\OneDrive\Desktop\TASKcsharp\taskcduration\obj\Debug\taskcduration.pdb
+C:\Users\Kspades\OneDrive\Desktop\taskcduration\bin\Debug\taskcduration.exe.config
+C:\Users\Kspades\OneDrive\Desktop\taskcduration\bin\Debug\taskcduration.exe
+C:\Users\Kspades\OneDrive\Desktop\taskcduration\bin\Debug\taskcduration.pdb
+C:\Users\Kspades\OneDrive\Desktop\taskcduration\obj\Debug\taskcduration.csproj.AssemblyReference.cache
+C:\Users\Kspades\OneDrive\Desktop\taskcduration\obj\Debug\taskcduration.csproj.CoreCompileInputs.cache
+C:\Users\Kspades\OneDrive\Desktop\taskcduration\obj\Debug\taskcduration.exe
+C:\Users\Kspades\OneDrive\Desktop\taskcduration\obj\Debug\taskcduration.pdb
